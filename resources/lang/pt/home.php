@@ -1,0 +1,47 @@
+<?php 
+
+return  [
+  
+"title" => "Conversor online gratuito de YouTube para MP3 | UMP3.cc",
+"description" => "Converta vídeos do YouTube para MP3 sem esforço com UMP3.cc. Desfrute de downloads de áudio de alta qualidade gratuitamente, sem necessidade de registro.",
+"h1" => "Conversor online de YouTube para MP3",
+"h1sub" => "Baixe seus vídeos favoritos do YouTube como arquivos MP3 de alta qualidade com rapidez e facilidade.",
+"h2" => "Converta facilmente vídeos do YouTube para MP3 com nosso downloader fácil de usar",
+"h2sub" => "Nosso downloader de YouTube para MP3 permite converter e baixar seus vídeos favoritos do YouTube em arquivos MP3 de alta qualidade com facilidade. Esteja você procurando curtir música off-line, criar uma biblioteca de áudio pessoal ou ouvir seu conteúdo favorito em qualquer lugar, nossa ferramenta foi projetada para oferecer velocidade e simplicidade. Não são necessários conhecimentos técnicos – basta colar o URL do YouTube, clicar em download e obter seu arquivo MP3 em segundos. Compatível com todos os dispositivos e totalmente gratuito, nosso downloader garante sempre uma experiência perfeita e eficiente. Comece a converter seus vídeos favoritos para MP3 hoje mesmo!",
+"howto" => "Como baixar vídeos do YouTube como arquivos MP3",
+"howto1" => "Vá ao YouTube e encontre o vídeo que deseja converter para MP3. Copie o URL do vídeo da barra de endereço do seu navegador.",
+"howto2" => "Visite UMP3.cc e cole o URL copiado do YouTube no campo fornecido na página inicial.",
+"howto3" => "Clique no botão \"Baixar\". Aguarde a conclusão da conversão e baixe o arquivo MP3 para o seu dispositivo. Aproveite seu áudio off-line!",
+"ft" => "Por que você deve escolher o downloader UMP3.CC?",
+"ft1" => "Áudio de alta qualidade",
+"ft1_detail_1" => "UMP3.cc garante que todos os arquivos MP3 convertidos mantenham excelente qualidade de áudio, para que você possa curtir suas faixas favoritas com o melhor som possível.",
+"ft2" => "Conversão rápida",
+"ft2_detail1" => "A ferramenta oferece velocidades de conversão rápidas, permitindo que você baixe seus arquivos MP3 em questão de segundos.",
+"ft3" => "Interface amigável",
+"ft3_detail1" => "Com seu design simples e intuitivo, o UMP3.cc facilita a conversão e download de vídeos do YouTube para qualquer pessoa sem nenhum conhecimento técnico.",
+"ft4" => "Gratuito para usar",
+"ft4_detail1" => "UMP3.cc é totalmente gratuito, oferecendo conversões e downloads ilimitados, sem quaisquer taxas ocultas ou requisitos de assinatura.",
+"ft5" => "Não é necessário registro",
+"ft5_detail1" => "Você pode usar o UMP3.cc sem a necessidade de criar uma conta ou fornecer informações pessoais, garantindo uma experiência descomplicada.",
+"ft6" => "Compatível com todos os dispositivos",
+"ft6_detail1" => "Esteja você usando um computador, smartphone ou tablet, o UMP3.cc funciona perfeitamente em todos os dispositivos e sistemas operacionais.",
+"qa" => "Perguntas frequentes ao usar UMP3.CC",
+"qa1" => "Como funciona o UMP3.CC?",
+"qa1_detail1" => "UMP3.cc permite converter vídeos do YouTube em arquivos de áudio MP3 simplesmente colando o URL do vídeo no campo fornecido e clicando em um botão para iniciar o processo de conversão.",
+"qa2" => "O uso do UMP3.CC é gratuito?",
+"qa2_detail1" => "Sim, o uso do UMP3.CC é totalmente gratuito. Você pode converter e baixar quantos vídeos do YouTube em arquivos MP3 desejar, sem nenhum custo.",
+"qa3" => "Preciso me registrar ou me inscrever para usar o UMP3.CC?",
+"qa3_detail1" => "Não, o registro não é necessário. O UMP3.CC é acessível a todos sem criar uma conta ou fornecer qualquer informação pessoal.",
+"qa4" => "Há algum limite para o número de conversões que posso fazer?",
+"qa4_detail1" => "Não há limites para o número de conversões que você pode fazer com UMP3.CC. Você pode converter e baixar vídeos do YouTube em arquivos MP3 quantas vezes desejar.",
+"qa5" => "O UMP3.CC é seguro para uso?",
+"qa5_detail1" => "UMP3.CC prioriza a segurança e privacidade do usuário. O site não requer downloads ou instalações, minimizando os riscos associados a malware. No entanto, é sempre uma boa prática garantir que seu navegador e sistema estejam atualizados para maior segurança.",
+"qa6" => "Posso usar o UMP3.CC em dispositivos móveis?",
+"qa6_detail1" => "Sim, o UMP3.CC é compatível com dispositivos móveis e pode ser acessado e usado em smartphones e tablets, além de computadores e laptops.",
+"qa7" => "Que qualidade de áudio o UMP3.CC oferece?",
+"qa7_detail1" => "UMP3.CC se esforça para fornecer arquivos de áudio MP3 de alta qualidade. A qualidade do MP3 convertido depende da qualidade do vídeo de origem no YouTube.",
+"qa8" => "Há alguma preocupação legal com o uso do UMP3.CC?",
+"qa8_detail1" => "O UMP3.CC opera sob a premissa de uso pessoal e adesão aos termos de serviço do YouTube. É importante respeitar as leis de direitos autorais e usar o conteúdo baixado de maneira responsável."
+
+];
+    

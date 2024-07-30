@@ -1,0 +1,25 @@
+{
+    "en": "",
+    "vi": "vi",
+    "fr": "fr",
+    "es": "es",
+    "bn": "bn",
+    "de": "de",
+    "hi": "hi",
+    "id": "id",
+    "it": "it",
+    "ja": "ja",
+    "ko": "ko",
+    "ms": "ms",
+    "my": "my",
+    "ar": "ar",
+    "pt": "pt",
+    "ru": "ru",
+    "sa": "sa",
+    "th": "th",
+    "tl": "tl",
+    "tr": "tr",
+    "zh-cn": "zh-cn",
+    "zh-tw": "zh-tw"
+}
+

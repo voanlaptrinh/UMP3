@@ -1,0 +1,47 @@
+<?php 
+
+return  [
+  
+"title" => "Penukar YouTube ke MP3 Dalam Talian Percuma | UMP3.cc",
+"description" => "Tukar video YouTube kepada MP3 dengan mudah dengan UMP3.cc. Nikmati muat turun audio berkualiti tinggi secara percuma, tanpa perlu mendaftar.",
+"h1" => "Penukar YouTube ke MP3 dalam talian",
+"h1sub" => "Muat turun video YouTube kegemaran anda sebagai fail MP3 berkualiti tinggi dengan cepat dan mudah.",
+"h2" => "Tukar Video YouTube kepada MP3 dengan Mudah dengan Muat Turun Mesra Pengguna Kami",
+"h2sub" => "YouTube to MP3 Downloader kami membolehkan anda menukar dan memuat turun video YouTube kegemaran anda kepada fail MP3 berkualiti tinggi dengan mudah. Sama ada anda ingin menikmati muzik di luar talian, mencipta pustaka audio peribadi atau mendengar kandungan kegemaran anda semasa dalam perjalanan, alat kami direka untuk kelajuan dan kesederhanaan. Tiada kemahiran teknikal diperlukan – cuma tampal URL YouTube, klik muat turun dan dapatkan fail MP3 anda dalam beberapa saat. Serasi dengan semua peranti dan percuma untuk digunakan sepenuhnya, pemuat turun kami memastikan pengalaman yang lancar dan cekap setiap masa. Mula menukar video kegemaran anda kepada MP3 hari ini!",
+"howto" => "Cara Muat Turun Video YouTube sebagai Fail MP3",
+"howto1" => "Pergi ke YouTube dan cari video yang ingin anda tukar kepada MP3. Salin URL video daripada bar alamat penyemak imbas anda.",
+"howto2" => "Lawati UMP3.cc dan tampal URL YouTube yang disalin ke dalam medan yang disediakan di halaman utama.",
+"howto3" => "Klik butang \"Muat turun\". Tunggu sehingga penukaran selesai, dan kemudian muat turun fail MP3 ke peranti anda. Nikmati audio anda di luar talian!",
+"ft" => "Mengapa anda perlu memilih UMP3.CC Downloader?",
+"ft1" => "Audio Berkualiti Tinggi",
+"ft1_detail_1" => "UMP3.cc memastikan semua fail MP3 yang ditukar mengekalkan kualiti audio yang sangat baik, supaya anda boleh menikmati trek kegemaran anda dalam bunyi yang terbaik.",
+"ft2" => "Penukaran Pantas",
+"ft2_detail1" => "Alat ini menawarkan kelajuan penukaran pantas, membolehkan anda memuat turun fail MP3 anda dalam masa beberapa saat.",
+"ft3" => "Antara Muka Mesra Pengguna",
+"ft3_detail1" => "Dengan reka bentuk yang ringkas dan intuitif, UMP3.cc memudahkan sesiapa sahaja untuk menukar dan memuat turun video YouTube tanpa sebarang pengetahuan teknikal.",
+"ft4" => "Percuma untuk Digunakan",
+"ft4_detail1" => "UMP3.cc adalah percuma sepenuhnya, menawarkan penukaran dan muat turun tanpa had tanpa sebarang bayaran tersembunyi atau keperluan langganan.",
+"ft5" => "Tiada Pendaftaran Diperlukan",
+"ft5_detail1" => "Anda boleh menggunakan UMP3.cc tanpa perlu membuat akaun atau memberikan maklumat peribadi, memastikan pengalaman tanpa kerumitan.",
+"ft6" => "Serasi dengan Semua Peranti",
+"ft6_detail1" => "Sama ada anda menggunakan komputer, telefon pintar atau tablet, UMP3.cc berfungsi dengan lancar merentas semua peranti dan sistem pengendalian.",
+"qa" => "Soalan lazim apabila menggunakan UMP3.CC",
+"qa1" => "Bagaimanakah UMP3.CC berfungsi?",
+"qa1_detail1" => "UMP3.cc membolehkan anda menukar video YouTube kepada fail audio MP3 dengan hanya menampal URL video ke dalam medan yang disediakan dan mengklik butang untuk memulakan proses penukaran.",
+"qa2" => "Adakah UMP3.CC percuma untuk digunakan?",
+"qa2_detail1" => "Ya, UMP3.CC adalah percuma untuk digunakan. Anda boleh menukar dan memuat turun seberapa banyak video YouTube kepada fail MP3 yang anda suka tanpa kos.",
+"qa3" => "Adakah saya perlu mendaftar atau mendaftar untuk menggunakan UMP3.CC?",
+"qa3_detail1" => "Tidak, pendaftaran tidak diperlukan. UMP3.CC boleh diakses oleh semua orang tanpa membuat akaun atau memberikan sebarang maklumat peribadi.",
+"qa4" => "Adakah terdapat sebarang had pada bilangan penukaran yang boleh saya buat?",
+"qa4_detail1" => "Tiada had pada bilangan penukaran yang boleh anda buat dengan UMP3.CC. Anda boleh menukar dan memuat turun video YouTube kepada fail MP3 sekerap yang anda mahu.",
+"qa5" => "Adakah UMP3.CC selamat digunakan?",
+"qa5_detail1" => "UMP3.CC mengutamakan keselamatan dan privasi pengguna. Laman web ini tidak memerlukan sebarang muat turun atau pemasangan, meminimumkan risiko yang berkaitan dengan perisian hasad. Walau bagaimanapun, ia sentiasa menjadi amalan yang baik untuk memastikan penyemak imbas dan sistem anda dikemas kini untuk keselamatan tambahan.",
+"qa6" => "Bolehkah saya menggunakan UMP3.CC pada peranti mudah alih?",
+"qa6_detail1" => "Ya, UMP3.CC mesra mudah alih dan boleh diakses dan digunakan pada telefon pintar dan tablet, selain komputer dan komputer riba.",
+"qa7" => "Apakah kualiti audio yang disediakan oleh UMP3.CC?",
+"qa7_detail1" => "UMP3.CC berusaha untuk menyediakan fail audio MP3 berkualiti tinggi. Kualiti MP3 yang ditukar bergantung pada kualiti video sumber di YouTube.",
+"qa8" => "Adakah terdapat sebarang kebimbangan undang-undang dengan menggunakan UMP3.CC?",
+"qa8_detail1" => "UMP3.CC beroperasi di bawah premis penggunaan peribadi dan pematuhan kepada syarat perkhidmatan YouTube. Adalah penting untuk menghormati undang-undang hak cipta dan menggunakan kandungan yang dimuat turun secara bertanggungjawab."
+
+];
+    
