@@ -47,8 +47,8 @@ class Controller extends BaseController
 
     function __construct()
     {
-        $this->metaTile = __('main.metatitle');
-        $this->metaDescription = __('main.metadescription');
+        $this->metaTile = __('main.title');
+        $this->metaDescription = __('main.description');
         $this->setRules();
     }
 

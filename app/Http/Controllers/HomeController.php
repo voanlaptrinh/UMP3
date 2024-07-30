@@ -10,6 +10,8 @@ class HomeController extends Controller
     {
         $this->checkSupportLanguage($hl_full);
         $controller = request()->route()->controller;
+        $this->metaTile = __('home.title');
+        $this->metaDescription = __('home.description');
         $this->alternate = '<link rel="alternate" hreflang="x-default" href="' .  $this->createUrl('home', array('hl' => 'en')) . '" />';
         foreach ($this->supportedLanguages as $language) {
             if ($language == $this->hl) continue;

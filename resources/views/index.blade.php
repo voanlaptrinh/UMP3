@@ -13,20 +13,55 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ $controller->metaTile }}</title>
+    <meta name="description" content="{{ $controller->metaDescription }}">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <script src="{{ asset('js/jquery-3.3.1.js') }}"></script>
-    <title>Laravel</title>
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css">
     <!-- Fonts -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+   <link rel="stylesheet" href="{{asset('/css/bootstrap.min.css')}}">
+
+   <link rel="shortcut icon" type="image/x-icon" href="{{ asset('image/icon.png') }}">
+   <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('/image/favicon-16x16.png') }}">
+   <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('/image/favicon-32x32.png') }}">
+   <link rel="icon" type="image/png" sizes="144x144" href="{{ asset('/image/android-chrome-144x144.png') }}">
+   <link rel="icon" type="image/png" sizes="192x192" href="{{ asset('/image/android-chrome-192x192.png') }}">
+
+   <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('/image/icons/apple-touch-icon-114x114.png') }}">
+   <link rel="apple-touch-icon" sizes="120x120" href="{{ asset('/image/icons/apple-touch-icon-120x120.png') }}">
+   <link rel="apple-touch-icon" sizes="144x144" href="{{ asset('/image/icons/apple-touch-icon-144x144.png') }}">
+   <link rel="apple-touch-icon" sizes="152x152" href="{{ asset('/image/icons/apple-touch-icon-152x152.png') }}">
+   <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('/image/icons/apple-touch-icon.png') }}">
+   <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('/image/icons/apple-touch-icon-57x57.png') }}">
+   <link rel="apple-touch-icon" sizes="60x60" href="{{ asset('/image/icons/apple-touch-icon-60x60.png') }}">
+   <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('/image/icons/apple-touch-icon-72x72.png') }}">
+   <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('/image/icons/apple-touch-icon-76x76.png') }}">
+   <link rel="apple-touch-startup-image" href="{{ asset('/image/icons/apple-touch-icon-180x180.png') }}" />
+
+
+
+   <meta property="og:type" content="website">
+   <meta property="og:title" content="{{ $controller->metaTile }}">
+   <meta property="og:description" content="{{ $controller->metaTile }}">
+   <meta property="og:image" content="">
+   <meta property="og:locale" content="{{ app()->getLocale() }}">
+
+   <meta itemprop="image" content="">
+   <?php
+   if ($controller->alternate) {
+       echo $controller->alternate;
+   }
+   ?>
+
+
+
 </head>
 <style>
-    /* @font-face {
+    @font-face {
         font-family: 'Roboto';
-        src: url('{{ asset('fonts/Roboto-Black.ttf') }}') format('truetype');
-    } */
+        src: url('{{ asset('fonts/Roboto-Regular.ttf') }}') format('truetype');
+    }
 
     body {
         font-family: 'Roboto', sans-serif;
@@ -167,11 +202,9 @@
     var download = '@lang('main.download')';
     var convert = '@lang('main.convert')';
 </script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
-    integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
-</script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
-    integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
+<script src="{{asset('/js/popper.min.js')}}"></script>
+<script src="{{asset('/js/bootstrap.min.js')}}"></script>
+
 </script>
 
 </html>
